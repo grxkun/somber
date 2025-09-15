@@ -58,17 +58,7 @@ The following environment variables are required for the bot to function:
 
 Your `.env` file should look like this:
 
-```env
-# Somnia Network API Configuration
-SOMNIA_API_URL=https://mainnet.somnia.validationcloud.io/v1/R-URcU9fiBiBJ8U3UBjrhWZmRzlYR3noVjfuUkJg9KQ
 
-# Telegram Bot Configuration
-TELEGRAM_BOT_TOKEN=8371287209:AAGN-aa321Dr69JO97GfL-8nV5ti5IB8TpE
-
-# Optional: Additional Configuration
-DEBUG=false
-LOG_LEVEL=INFO
-```
 
 ## Usage
 
